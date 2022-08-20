@@ -154,7 +154,7 @@
   {"name":"ali-WebDAV-App","server":"http://127.0.0.1:8080/","userName":"admin","password":"admin","type":"webdav"}
 ],
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3lhbjExeHgvVFZCT1gvc3JjL2JyYW5jaC9tYXN0ZXIveWwvbGl2ZS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3lhbjExeHgvVFZCT1gvcmF3L2JyYW5jaC9tYXN0ZXIveWwvbGl2ZS50eHQ="]}]}],
 
 "sites":[
 
