@@ -18,7 +18,8 @@
 
 
 //0814
-"spider":"clan://TVBox/jar/公众号有三日月与卿0814.jar",
+"spider":"aHR0cHM6Ly9hZ2l0LmFpL3lhbjExeHgvVFZCT1gvc3JjL2JyYW5jaC9tYXN0ZXIveWwvMDgxNC5qYXI=
+",
 
 
 // 每日一言 (随机显示欢迎语)
@@ -154,11 +155,11 @@
   {"name":"ali-WebDAV-App","server":"http://127.0.0.1:8080/","userName":"admin","password":"admin","type":"webdav"}
 ],
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNzYzL2xpdmUudHh0P3NpZ249ODdCVEdUMV82QU9yeTdGUHd5X3V1eEZUdjJXY2I5YURNajQ2ckRkUlREOCUzRCUzQTA="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3lhbjExeHgvVFZCT1gvc3JjL2JyYW5jaC9tYXN0ZXIveWwvbGl2ZS50eHQ="]}]}],
 
 "sites":[
 
-{"key": "Kunyu77","name": " 🔰公众号：有三日月与卿七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Kunyu77","name": " 🔰七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"KanSJ_spider","name":"🛰️看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 
