@@ -148,45 +148,16 @@
 
 {"key": "Kunyu77","name": " 七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-
-{"key": "csp_剧荒","name": "剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-
-{"key": "csp_Jianying","name": "简影〔SP〕","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q","jar":"https://agit.ai/yan11xx/TVBOX/src/branch/master/yl/0822.dex;md5;381a02b64a5bd9853369369c335b8018"},
-
-
-
+{"key": "csp_293","name": "293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/yan11xx/TVBOX/src/branch/master/yl/293.jar"},
 
 {"key":"KanSJ_spider","name":"看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 
+{"key": "csp_BBB","name":"哔哩哔哩","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Blixs","name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Blixq","name":"戏曲","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_DiDuan","name":"低端","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},  
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 
-{"key": "新哔哩","name": "新哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/yan11xx/TVBOX/raw/branch/master/bili/%e5%93%94%e5%93%a9.json","spider":"https://agit.ai/yan11xx/TVBOX/src/branch/master/yl/bili.jar"},
-
-
-{"key": "体育","name": "体育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/yan11xx/TVBOX/raw/branch/master/bili/%e4%bd%93%e8%82%b2.json","spider":"https://agit.ai/yan11xx/TVBOX/src/branch/master/yl/bili.jar"},
-
-
-{"key": "球类","name": "球球","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/yan11xx/TVBOX/raw/branch/master/bili/%e7%90%83%e7%90%83.json","spider":"https://agit.ai/yan11xx/TVBOX/src/branch/master/yl/bili.jar"},
-
-{"key": "美食","name": " 美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/yan11xx/TVBOX/raw/branch/master/bili/%e7%be%8e%e9%a3%9f.json","spider":"https://agit.ai/yan11xx/TVBOX/src/branch/master/yl/bili.jar"},
-
-{"key": "棋牌","name": " 棋牌","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"pwd":"50905d7b2216bfeccb5b41016357176b","ext": "https://agit.ai/yan11xx/TVBOX/raw/branch/master/bili/%e6%a3%8b%e7%89%8c.json","spider":"https://agit.ai/yan11xx/TVBOX/src/branch/master/yl/bili.jar"},
-
-{"key": "UP主","name": " UP主","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/yan11xx/TVBOX/raw/branch/master/bili/UP%e4%b8%bb.json","spider":"https://agit.ai/yan11xx/TVBOX/src/branch/master/yl/bili.jar"},
-
-{"key": "演唱会自定义","name": " 演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/yan11xx/TVBOX/src/branch/master/bili/%e6%bc%94%e5%94%b1%e4%bc%9a.json","spider":"https://agit.ai/yan11xx/TVBOX/src/branch/master/yl/bili.jar"},
-
-{"key": "MV","name": " MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/yan11xx/TVBOX/raw/branch/master/bili/MTV.json","spider":"https://agit.ai/yan11xx/TVBOX/src/branch/master/yl/bili.jar"},
-
-{"key": "学堂","name": " 学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/yan11xx/TVBOX/raw/branch/master/bili/%e5%ad%a6%e5%a0%82.json","spider":"https://agit.ai/yan11xx/TVBOX/src/branch/master/yl/bili.jar"},
-
-
-{"key": "Bili","name": " 哔哩","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/yan11xx/TVBOX/raw/branch/master/bili/%e5%93%94%e5%93%a9.json","spider":"https://agit.ai/yan11xx/TVBOX/src/branch/master/yl/bili.jar"},
-
-{"key": "戏曲自定义","name": " 戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/yan11xx/TVBOX/raw/branch/master/bili/%e6%88%8f%e6%9b%b2.json","spider":"https://agit.ai/yan11xx/TVBOX/src/branch/master/yl/bili.jar"},
-
-
- {
 			"key": "360_spider",
 			"name": "360",
 			"api": "csp_SP360",
