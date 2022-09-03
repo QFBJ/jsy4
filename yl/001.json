@@ -2,7 +2,7 @@
 
 {"spider":"https://gitea.com/yan11xx/TVBox/raw/branch/main/jar/0901.jar;md5;48901B375AABF01398601FE85AE2A44D",
  "spider": "https://gitea.com/yan11xx/TVBox/raw/branch/main/jar/0828.jar",
-
+"spider": "https://gitea.com/yan11xx/TVBox/raw/branch/main/jar/ali.jar",
 "recommend": [{
  "name": "豆瓣推荐",
  "request": {
@@ -60,6 +60,21 @@
 {"key":"厂长影视","name":"厂长资源〔SP〕","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/yan11xx/TVBox/raw/branch/main/jar/77.jar"
     },
+{"key":"csp_Alist1","name":"Alist_七米蓝(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://al.chirmyram.com"},
+
+{"key": "T4","name": "T4爬虫阿里搜索用","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=a28786d30be44cfaa81c2a32828fd99b&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
+	
+{"key":"Yisou","name":"😺易搜+原画(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3",	"jar":"http://dlj.bz/6PQmZB"},
+{"key":"Zhaozy","name":"😺找资源+原画(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3",
+"jar":"http://dlj.bz/EaaZAQ"},
+{"key":"csp_Alips","name":"🐱喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3",
+"jar":"http://dlj.bz/EaaZAQ"},
+{"key": "bdys","name": "🔍哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dlj.bz/uqcLKK","jar":"http://dlj.bz/EaaZAQ"},
+{"key": "T4","name": "T4搜索","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "T41","name": "T4爬虫1","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "T42","name": "T4爬虫2","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=9f908347b43c46888c97a8630050d252&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+
+
 {"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"Cokemv〔SP〕","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
